@@ -1,11 +1,14 @@
-package com.example.hw_7_1_2_1_authorization_service;
+package com.example.hw_7_1_2_1_authorization_service.Repository;
+
+import com.example.hw_7_1_2_1_authorization_service.Authorities;
+import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-
+@Repository
 public class UserRepository {
     Map<String, String> repository;
 

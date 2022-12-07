@@ -1,4 +1,4 @@
-package com.example.hw_7_1_2_1_authorization_service;
+package com.example.hw_7_1_2_1_authorization_service.UserInfo;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,5 +1,5 @@
 
-package com.example.hw_7_1_2_1_authorization_service;
+package com.example.hw_7_1_2_1_authorization_service.Exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
