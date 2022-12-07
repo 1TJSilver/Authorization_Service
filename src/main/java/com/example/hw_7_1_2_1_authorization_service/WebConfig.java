@@ -1,5 +1,8 @@
 package com.example.hw_7_1_2_1_authorization_service;
 
+import com.example.hw_7_1_2_1_authorization_service.Controller.AuthorizationController;
+import com.example.hw_7_1_2_1_authorization_service.Repository.UserRepository;
+import com.example.hw_7_1_2_1_authorization_service.Service.AuthorizationService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.method.support.HandlerMethodArgumentResolver;

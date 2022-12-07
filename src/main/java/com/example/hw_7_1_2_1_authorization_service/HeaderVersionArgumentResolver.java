@@ -1,5 +1,6 @@
 package com.example.hw_7_1_2_1_authorization_service;
 
+import com.example.hw_7_1_2_1_authorization_service.UserInfo.UserAnn;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.core.MethodParameter;
 import org.springframework.web.bind.support.WebDataBinderFactory;
